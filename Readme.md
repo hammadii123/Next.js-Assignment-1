@@ -1,1 +1,1 @@
-These are the nextJS Assignments  which i learnt in the class
+# Next.js-Assignment-1
